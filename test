@@ -1,0 +1,4 @@
+$ mkdir -p /opt/git
+$ cd /opt/git
+$ git clone --bare simpleapp simpleapp.git
+Initialized empty Git repository in /opt/git/simpleapp.git/
